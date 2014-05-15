@@ -1,0 +1,4 @@
+fluffy
+======
+
+Static site generator
